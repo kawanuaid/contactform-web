@@ -1,0 +1,5 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Contact Form"
+assetsDir = "assets"
+publishDir = "public"
