@@ -1,0 +1,12 @@
+[form_topic]
+    other = "Select A Topic"
+[form_name]
+    other = "Name"
+[form_email]
+    other = "Email"
+[form_subject]
+    other = "Subject"
+[form_message]
+    other = "How can we help you?"
+[form_button]
+    other = "Send Request"

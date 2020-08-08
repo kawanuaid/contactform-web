@@ -1,5 +1,17 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Contact Form"
+title = "Kawanua ID"
 assetsDir = "assets"
 publishDir = "public"
+DefaultContentLanguage = "id"
+
+[languages]
+    [languages.id]
+        languageName = "Bahasa Indonesia"
+        title = "Hubungi Kami"
+        weight = 1
+
+    [languages.en]
+        languageName = "English"
+        title = "Contact Us"
+        weight = 2

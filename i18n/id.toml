@@ -1,0 +1,12 @@
+[form_topic]
+    other = "Silahkan Pilih Topik"
+[form_name]
+    other = "Nama"
+[form_email]
+    other = "Email"
+[form_subject]
+    other = "Judul"
+[form_message]
+    other = "Apa yang ingin disampaikan?"
+[form_button]
+    other = "Kirim Pesan"
